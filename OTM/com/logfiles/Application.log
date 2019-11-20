@@ -1,0 +1,35 @@
+[24-08-2019 01:24:32] |TestBase| |launchBrowser| |86| Browser selected is ********** Chrome **********
+[24-08-2019 01:24:34] |TestBase| |launchBrowser| |97| Web Window is maximized
+[24-08-2019 01:24:34] |TestBase| |launchBrowser| |102| Implicit Wait is Set to 20sec
+[24-08-2019 01:25:06] |TestBase| |launchBrowser| |104| URL is Opened
+[24-08-2019 01:25:06] |LoginPage_OTM| |setDomain| |56| Entered Domain
+[24-08-2019 01:25:07] |LoginPage_OTM| |setDomain| |58| Clicked Go button
+[24-08-2019 01:25:07] |LoginPage_OTM| |login| |40| Username Entered
+[24-08-2019 01:25:07] |LoginPage_OTM| |login| |42| Password Entered
+[24-08-2019 01:25:25] |LoginPage_OTM| |login| |44| Clicked Sign In
+[24-08-2019 01:25:29] |Common_Library| |waitForElementToBeClickable| |248| WebElement exists and clickable
+[24-08-2019 01:25:30] |Common_Library| |clickOnWebElement| |399| WebElement is clicked
+[24-08-2019 01:25:35] |DispatchBoard| |<init>| |141| Dispatch board page intialised
+[24-08-2019 01:26:38] |Common_Library| |switchToFrame| |369| Switched to Frame using Frame Name
+[24-08-2019 01:26:39] |Common_Library| |waitForElementToBeClickable| |248| WebElement exists and clickable
+[24-08-2019 01:26:40] |Common_Library| |clickOnWebElement| |399| WebElement is clicked
+[24-08-2019 01:26:41] |Common_Library| |waitForElementToBeClickable| |248| WebElement exists and clickable
+[24-08-2019 01:26:42] |Common_Library| |clickOnWebElement| |399| WebElement is clicked
+[24-08-2019 01:26:44] |Common_Library| |selectDropdownBy| |169| DropDown is selected using selectByVisibleText
+[24-08-2019 01:26:46] |DispatchBoard| |selectDropdownOptions| |178| Query got selected
+[24-08-2019 01:26:50] |DispatchBoard| |ClickOnSearchedResults| |202| Searched Person Number record exists
+[24-08-2019 01:26:52] |Common_Library| |waitForElementToBeClickable| |248| WebElement exists and clickable
+[24-08-2019 01:26:55] |Common_Library| |clickOnWebElement| |399| WebElement is clicked
+[24-08-2019 01:26:55] |Common_Library| |switchToFrame| |369| Switched to Frame using Frame Name
+[24-08-2019 01:26:56] |Common_Library| |waitForElementToBeClickable| |248| WebElement exists and clickable
+[24-08-2019 01:26:58] |Common_Library| |clickOnWebElement| |399| WebElement is clicked
+[24-08-2019 01:27:05] |Common_Library| |switchToWindowTab| |473| Window Tab found with Title: Adjust Shipment Costs and Switching to it
+[24-08-2019 01:27:05] |Common_Library| |switchToFrame| |369| Switched to Frame using Frame Name
+[24-08-2019 01:27:05] |Common_Library| |waitForElementToBeVisible| |274| WebElement exists
+[24-08-2019 01:27:07] |Common_Library| |selectDropdownBy| |169| DropDown is selected using selectByVisibleText
+[24-08-2019 01:28:11] |Common_Library| |waitForElementToBeClickable| |257| WebElement does not exist
+[24-08-2019 01:28:41] |Common_Library| |waitForElementToBeVisible| |277| WebElement does not exist
+[24-08-2019 01:29:12] |Common_Library| |waitForElementToBeVisible| |277| WebElement does not exist
+[24-08-2019 01:29:42] |Common_Library| |waitForElementToBeVisible| |277| WebElement does not exist
+[24-08-2019 01:30:12] |Common_Library| |waitForElementToBeVisible| |277| WebElement does not exist
+[24-08-2019 01:30:12] |TestBase| |quitBrowser| |133| Browser will be Closed and Driver will be Quit !!

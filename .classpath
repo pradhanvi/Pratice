@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="Commons"/>
+	<classpathentry kind="src" path="HCM"/>
+	<classpathentry kind="src" path="SCM"/>
+	<classpathentry kind="src" path="OTM"/>
+	<classpathentry kind="src" path="WMS"/>
+	<classpathentry kind="src" path="FIN"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="D:/Bimbo/Selenium Workspace/BIMBO_Automation_New.zip_expanded/BIMBO_Automation/libs/log4j-1.2.14.jar"/>
+	<classpathentry kind="lib" path="D:/Bimbo/Selenium Workspace/BIMBO_Automation_New.zip_expanded/BIMBO_Automation/libs/Report.jar"/>
+	<classpathentry kind="lib" path="D:/Bimbo/Selenium Workspace/BIMBO_Automation_New.zip_expanded/BIMBO_Automation/libs/selenium-server-standalone-3.141.59.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

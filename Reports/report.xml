@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>XML generated for report generation</comment>
+<entry key="reportRow">58</entry>
+<entry key="report_xlsFolder">Reports</entry>
+<entry key="screenRow">900</entry>
+<entry key="report_step_no">2</entry>
+<entry key="report_xlsPath">Reports\SCM_CHILE_CST_011_TransferTransactionsToCSTManagement_Transfer Transactions to CST Management _13-Nov-2019 11-01-19 PM.xlsx</entry>
+</properties>

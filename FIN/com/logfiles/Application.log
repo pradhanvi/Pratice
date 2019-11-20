@@ -1,0 +1,37 @@
+[04-11-2019 20:31:53] |TestBase| |launchBrowser| |86| Browser selected is ********** Chrome **********
+[04-11-2019 20:31:54] |TestBase| |launchBrowser| |97| Web Window is maximized
+[04-11-2019 20:31:54] |TestBase| |launchBrowser| |102| Implicit Wait is Set to 20sec
+[04-11-2019 20:32:00] |TestBase| |launchBrowser| |104| URL is Opened
+[04-11-2019 20:32:00] |LoginPage_FIN| |login| |31| UserName is entered
+[04-11-2019 20:32:00] |LoginPage_FIN| |login| |33| Password is entered
+[04-11-2019 20:32:04] |LoginPage_FIN| |login| |35| SignIn is Clicked
+[04-11-2019 20:32:04] |Common_Library| |waitForElementToBeVisible| |274| WebElement exists
+[04-11-2019 20:32:08] |HomePage_FIN| |clickOnWelcomePage_HomeIcon| |128| Clicked on HomeIcon in HomePage
+[04-11-2019 20:32:09] |Common_Library| |waitForElementToBeVisible| |274| WebElement exists
+[04-11-2019 20:32:10] |HomePage_FIN| |clickOnNavigationIcon| |184| Navigation Icon is clicked
+[04-11-2019 20:32:18] |Common_Library| |waitForElementToBeClickable| |248| WebElement exists and clickable
+[04-11-2019 20:32:26] |Common_Library| |clickOnWebElement| |399| WebElement is clicked
+[04-11-2019 20:32:26] |HomePage_FIN| |clickOnBankStatementAndReconciliation| |216| Bank Statements And Reconciliation Link is Clicked
+[04-11-2019 20:32:27] |BankStatementsAndReconciliation| |<init>| |149| Bank Statements and Reconciliation page is initialized...
+[04-11-2019 20:32:28] |Common_Library| |waitForElementToBeClickable| |248| WebElement exists and clickable
+[04-11-2019 20:32:30] |Common_Library| |waitForElementToBeClickable| |248| WebElement exists and clickable
+[04-11-2019 20:32:31] |Common_Library| |clickOnWebElement| |399| WebElement is clicked
+[04-11-2019 20:32:34] |Common_Library| |waitForElementToBeClickable| |248| WebElement exists and clickable
+[04-11-2019 20:32:35] |Common_Library| |clickOnWebElement| |399| WebElement is clicked
+[04-11-2019 20:32:39] |Common_Library| |waitForElementToBeVisible| |274| WebElement exists
+[04-11-2019 20:32:40] |Common_Library| |waitForElementToBeClickable| |248| WebElement exists and clickable
+[04-11-2019 20:32:41] |Common_Library| |clickOnWebElement| |399| WebElement is clicked
+[04-11-2019 20:32:45] |Common_Library| |enterDataInTextBox| |226| String value entered in TextBox is: BBVA HAZ
+[04-11-2019 20:32:47] |Common_Library| |enterDataInTextBox| |226| String value entered in TextBox is: TEST-04NOV2019
+[04-11-2019 20:32:49] |Common_Library| |waitForElementToBeClickable| |248| WebElement exists and clickable
+[04-11-2019 20:32:50] |Common_Library| |clickOnWebElement| |399| WebElement is clicked
+[04-11-2019 20:33:27] |Common_Library| |waitForElementToBeVisible| |761| WebElement does not exist
+[04-11-2019 20:33:28] |Common_Library| |waitForElementToBeClickable| |248| WebElement exists and clickable
+[04-11-2019 20:33:29] |Common_Library| |clickOnWebElement| |399| WebElement is clicked
+[04-11-2019 20:33:45] |Common_Library| |waitForElementToBeVisible| |761| WebElement does not exist
+[04-11-2019 20:33:46] |Common_Library| |waitForElementToBeClickable| |248| WebElement exists and clickable
+[04-11-2019 20:33:47] |Common_Library| |clickOnWebElement| |399| WebElement is clicked
+[04-11-2019 20:33:48] |Common_Library| |waitForElementToBeClickable| |248| WebElement exists and clickable
+[04-11-2019 20:33:49] |Common_Library| |clickOnWebElement| |399| WebElement is clicked
+[04-11-2019 20:33:49] |Common_Library| |waitForElementToBeVisible| |757| WebElement exists
+[04-11-2019 20:33:50] |TestBase| |quitBrowser| |133| Browser will be Closed and Driver will be Quit !!

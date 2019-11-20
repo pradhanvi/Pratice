@@ -1,0 +1,221 @@
+[13-11-2019 23:01:23] |TestBase| |launchBrowser| |86| Browser selected is ********** Chrome **********
+[13-11-2019 23:01:24] |TestBase| |launchBrowser| |97| Web Window is maximized
+[13-11-2019 23:01:24] |TestBase| |launchBrowser| |102| Implicit Wait is Set to 20sec
+[13-11-2019 23:01:31] |TestBase| |launchBrowser| |104| URL is Opened
+[13-11-2019 23:01:31] |LoginPage_SCM| |<init>| |31| LoginPage_HCM is initialized
+[13-11-2019 23:01:31] |LoginPage_SCM| |login| |37| UserName is entered
+[13-11-2019 23:01:31] |LoginPage_SCM| |login| |39| Password is entered
+[13-11-2019 23:01:44] |LoginPage_SCM| |login| |42| SignIn is Clicked
+[13-11-2019 23:01:44] |Common_Library| |waitForElementToBeVisible| |274| WebElement exists
+[13-11-2019 23:01:49] |HomePage_SCM| |clickOnWelcomePage_HomeIcon| |67| Clicked on HomeIcon in HomePage
+[13-11-2019 23:01:54] |HomePage_SCM| |clickOnNavigationIcon| |96| Navigation Icon is clicked
+[13-11-2019 23:02:06] |Common_Library| |waitForElementToBeClickable| |248| WebElement exists and clickable
+[13-11-2019 23:02:11] |Common_Library| |clickOnWebElement| |399| WebElement is clicked
+[13-11-2019 23:02:11] |HomePage_SCM| |clickOnScheduledProcesses| |192| Scheduled Processes Link is Clicked
+[13-11-2019 23:02:17] |Common_Library| |waitForElementToBeVisible| |274| WebElement exists
+[13-11-2019 23:02:18] |Common_Library| |waitForElementToBeClickable| |248| WebElement exists and clickable
+[13-11-2019 23:02:19] |Common_Library| |clickOnWebElement| |399| WebElement is clicked
+[13-11-2019 23:02:21] |Common_Library| |waitForElementToBeVisible| |274| WebElement exists
+[13-11-2019 23:02:22] |Common_Library| |waitForElementToBeClickable| |248| WebElement exists and clickable
+[13-11-2019 23:02:23] |Common_Library| |clickOnWebElement| |399| WebElement is clicked
+[13-11-2019 23:02:24] |Common_Library| |waitForElementToBeClickable| |248| WebElement exists and clickable
+[13-11-2019 23:02:26] |Common_Library| |clickOnWebElement| |399| WebElement is clicked
+[13-11-2019 23:02:27] |Common_Library| |enterDataInTextBox| |226| String value entered in TextBox is: Import Revenue Lines
+[13-11-2019 23:02:29] |Common_Library| |waitForElementToBeClickable| |248| WebElement exists and clickable
+[13-11-2019 23:02:30] |Common_Library| |clickOnWebElement| |399| WebElement is clicked
+[13-11-2019 23:02:34] |Common_Library| |waitForElementToBeClickable| |248| WebElement exists and clickable
+[13-11-2019 23:02:35] |Common_Library| |clickOnWebElement| |399| WebElement is clicked
+[13-11-2019 23:02:35] |ScheduledProcesses| |selectReportName_SearchAndSelectName| |381| Selected Import Revenue Lines
+[13-11-2019 23:02:36] |Common_Library| |waitForElementToBeClickable| |248| WebElement exists and clickable
+[13-11-2019 23:02:38] |Common_Library| |clickOnWebElement| |399| WebElement is clicked
+[13-11-2019 23:02:39] |Common_Library| |waitForElementToBeClickable| |248| WebElement exists and clickable
+[13-11-2019 23:02:40] |Common_Library| |clickOnWebElement| |399| WebElement is clicked
+[13-11-2019 23:02:40] |ScheduledProcesses| |submitNewRequest| |486| Selected the request successfully
+[13-11-2019 23:02:43] |Common_Library| |waitForElementToBeVisible| |274| WebElement exists
+[13-11-2019 23:02:44] |Common_Library| |enterDataInTextBox| |226| String value entered in TextBox is: 1
+[13-11-2019 23:02:46] |Common_Library| |enterDataInTextBox| |226| String value entered in TextBox is: 13/Nov/2019
+[13-11-2019 23:02:48] |Common_Library| |waitForElementToBeClickable| |248| WebElement exists and clickable
+[13-11-2019 23:02:50] |Common_Library| |clickOnWebElement| |399| WebElement is clicked
+[13-11-2019 23:02:50] |Common_Library| |waitForElementToBeVisible| |274| WebElement exists
+[13-11-2019 23:02:51] |Common_Library| |waitForElementToBeClickable| |248| WebElement exists and clickable
+[13-11-2019 23:02:52] |Common_Library| |clickOnWebElement| |399| WebElement is clicked
+[13-11-2019 23:02:52] |Common_Library| |waitForElementToBeVisible| |274| WebElement exists
+[13-11-2019 23:02:54] |Common_Library| |waitForElementToBeClickable| |248| WebElement exists and clickable
+[13-11-2019 23:02:55] |Common_Library| |clickOnWebElement| |399| WebElement is clicked
+[13-11-2019 23:02:58] |Common_Library| |enterDataInTextBox| |226| String value entered in TextBox is: 4416305
+[13-11-2019 23:03:00] |Common_Library| |waitForElementToBeClickable| |248| WebElement exists and clickable
+[13-11-2019 23:03:01] |Common_Library| |clickOnWebElement| |399| WebElement is clicked
+[13-11-2019 23:03:04] |Common_Library| |waitForElementToBeVisible| |274| WebElement exists
+[13-11-2019 23:03:04] |ScheduledProcesses| |verifyReportStatus| |206| Status changed to Succeeded/Error
+[13-11-2019 23:03:06] |Common_Library| |waitForElementToBeClickable| |248| WebElement exists and clickable
+[13-11-2019 23:03:07] |Common_Library| |clickOnWebElement| |399| WebElement is clicked
+[13-11-2019 23:03:07] |Common_Library| |waitForElementToBeVisible| |274| WebElement exists
+[13-11-2019 23:03:08] |Common_Library| |waitForElementToBeClickable| |248| WebElement exists and clickable
+[13-11-2019 23:03:09] |Common_Library| |clickOnWebElement| |399| WebElement is clicked
+[13-11-2019 23:03:10] |Common_Library| |waitForElementToBeClickable| |248| WebElement exists and clickable
+[13-11-2019 23:03:11] |Common_Library| |clickOnWebElement| |399| WebElement is clicked
+[13-11-2019 23:03:13] |Common_Library| |enterDataInTextBox| |226| String value entered in TextBox is: Transfer Transactions from Production to Costing
+[13-11-2019 23:03:15] |Common_Library| |waitForElementToBeClickable| |248| WebElement exists and clickable
+[13-11-2019 23:03:16] |Common_Library| |clickOnWebElement| |399| WebElement is clicked
+[13-11-2019 23:03:20] |Common_Library| |waitForElementToBeClickable| |248| WebElement exists and clickable
+[13-11-2019 23:03:21] |Common_Library| |clickOnWebElement| |399| WebElement is clicked
+[13-11-2019 23:03:21] |ScheduledProcesses| |selectReportName_SearchAndSelectName| |381| Selected Transfer Transactions from Production to Costing
+[13-11-2019 23:03:22] |Common_Library| |waitForElementToBeClickable| |248| WebElement exists and clickable
+[13-11-2019 23:03:23] |Common_Library| |clickOnWebElement| |399| WebElement is clicked
+[13-11-2019 23:03:24] |Common_Library| |waitForElementToBeClickable| |248| WebElement exists and clickable
+[13-11-2019 23:03:26] |Common_Library| |clickOnWebElement| |399| WebElement is clicked
+[13-11-2019 23:03:26] |ScheduledProcesses| |submitNewRequest| |486| Selected the request successfully
+[13-11-2019 23:03:27] |Common_Library| |waitForElementToBeVisible| |274| WebElement exists
+[13-11-2019 23:03:28] |Common_Library| |enterDataInTextBox| |226| String value entered in TextBox is: All
+[13-11-2019 23:03:30] |Common_Library| |enterDataInTextBox| |226| String value entered in TextBox is: All
+[13-11-2019 23:03:33] |Common_Library| |waitForElementToBeClickable| |248| WebElement exists and clickable
+[13-11-2019 23:03:34] |Common_Library| |clickOnWebElement| |399| WebElement is clicked
+[13-11-2019 23:03:34] |Common_Library| |waitForElementToBeVisible| |274| WebElement exists
+[13-11-2019 23:03:35] |Common_Library| |waitForElementToBeClickable| |248| WebElement exists and clickable
+[13-11-2019 23:03:36] |Common_Library| |clickOnWebElement| |399| WebElement is clicked
+[13-11-2019 23:03:36] |Common_Library| |waitForElementToBeVisible| |274| WebElement exists
+[13-11-2019 23:03:37] |Common_Library| |enterDataInTextBox| |226| String value entered in TextBox is: 4416310
+[13-11-2019 23:03:40] |Common_Library| |waitForElementToBeClickable| |248| WebElement exists and clickable
+[13-11-2019 23:03:41] |Common_Library| |clickOnWebElement| |399| WebElement is clicked
+[13-11-2019 23:03:44] |Common_Library| |waitForElementToBeVisible| |274| WebElement exists
+[13-11-2019 23:03:47] |ScheduledProcesses| |verifyReportStatus| |209| Wait complete before refresh
+[13-11-2019 23:03:48] |Common_Library| |waitForElementToBeClickable| |248| WebElement exists and clickable
+[13-11-2019 23:03:49] |Common_Library| |clickOnWebElement| |399| WebElement is clicked
+[13-11-2019 23:03:52] |Common_Library| |waitForElementToBeVisible| |274| WebElement exists
+[13-11-2019 23:03:52] |ScheduledProcesses| |verifyReportStatus| |206| Status changed to Succeeded/Error
+[13-11-2019 23:03:54] |Common_Library| |waitForElementToBeClickable| |248| WebElement exists and clickable
+[13-11-2019 23:03:55] |Common_Library| |clickOnWebElement| |399| WebElement is clicked
+[13-11-2019 23:03:55] |Common_Library| |waitForElementToBeVisible| |274| WebElement exists
+[13-11-2019 23:03:56] |Common_Library| |waitForElementToBeClickable| |248| WebElement exists and clickable
+[13-11-2019 23:03:57] |Common_Library| |clickOnWebElement| |399| WebElement is clicked
+[13-11-2019 23:03:58] |Common_Library| |waitForElementToBeClickable| |248| WebElement exists and clickable
+[13-11-2019 23:03:59] |Common_Library| |clickOnWebElement| |399| WebElement is clicked
+[13-11-2019 23:04:01] |Common_Library| |enterDataInTextBox| |226| String value entered in TextBox is: Transfer Transactions from Inventory to Costing
+[13-11-2019 23:04:03] |Common_Library| |waitForElementToBeClickable| |248| WebElement exists and clickable
+[13-11-2019 23:04:04] |Common_Library| |clickOnWebElement| |399| WebElement is clicked
+[13-11-2019 23:04:08] |Common_Library| |waitForElementToBeClickable| |248| WebElement exists and clickable
+[13-11-2019 23:04:09] |Common_Library| |clickOnWebElement| |399| WebElement is clicked
+[13-11-2019 23:04:09] |ScheduledProcesses| |selectReportName_SearchAndSelectName| |381| Selected Transfer Transactions from Inventory to Costing
+[13-11-2019 23:04:10] |Common_Library| |waitForElementToBeClickable| |248| WebElement exists and clickable
+[13-11-2019 23:04:12] |Common_Library| |clickOnWebElement| |399| WebElement is clicked
+[13-11-2019 23:04:13] |Common_Library| |waitForElementToBeClickable| |248| WebElement exists and clickable
+[13-11-2019 23:04:14] |Common_Library| |clickOnWebElement| |399| WebElement is clicked
+[13-11-2019 23:04:14] |ScheduledProcesses| |submitNewRequest| |486| Selected the request successfully
+[13-11-2019 23:04:15] |Common_Library| |waitForElementToBeVisible| |274| WebElement exists
+[13-11-2019 23:04:16] |Common_Library| |enterDataInTextBox| |226| String value entered in TextBox is: CL IDEAL CO HKL
+[13-11-2019 23:04:19] |Common_Library| |enterDataInTextBox| |226| String value entered in TextBox is: 5000
+[13-11-2019 23:04:21] |Common_Library| |waitForElementToBeClickable| |248| WebElement exists and clickable
+[13-11-2019 23:04:22] |Common_Library| |clickOnWebElement| |399| WebElement is clicked
+[13-11-2019 23:04:22] |Common_Library| |waitForElementToBeVisible| |274| WebElement exists
+[13-11-2019 23:04:23] |Common_Library| |waitForElementToBeClickable| |248| WebElement exists and clickable
+[13-11-2019 23:04:24] |Common_Library| |clickOnWebElement| |399| WebElement is clicked
+[13-11-2019 23:04:24] |Common_Library| |waitForElementToBeVisible| |274| WebElement exists
+[13-11-2019 23:04:26] |Common_Library| |enterDataInTextBox| |226| String value entered in TextBox is: 4416312
+[13-11-2019 23:04:28] |Common_Library| |waitForElementToBeClickable| |248| WebElement exists and clickable
+[13-11-2019 23:04:29] |Common_Library| |clickOnWebElement| |399| WebElement is clicked
+[13-11-2019 23:04:32] |Common_Library| |waitForElementToBeVisible| |274| WebElement exists
+[13-11-2019 23:04:35] |ScheduledProcesses| |verifyReportStatus| |209| Wait complete before refresh
+[13-11-2019 23:04:36] |Common_Library| |waitForElementToBeClickable| |248| WebElement exists and clickable
+[13-11-2019 23:04:37] |Common_Library| |clickOnWebElement| |399| WebElement is clicked
+[13-11-2019 23:04:40] |Common_Library| |waitForElementToBeVisible| |274| WebElement exists
+[13-11-2019 23:04:41] |ScheduledProcesses| |verifyReportStatus| |206| Status changed to Succeeded/Error
+[13-11-2019 23:04:42] |Common_Library| |waitForElementToBeClickable| |248| WebElement exists and clickable
+[13-11-2019 23:04:43] |Common_Library| |clickOnWebElement| |399| WebElement is clicked
+[13-11-2019 23:04:43] |Common_Library| |waitForElementToBeVisible| |274| WebElement exists
+[13-11-2019 23:04:44] |Common_Library| |waitForElementToBeClickable| |248| WebElement exists and clickable
+[13-11-2019 23:04:45] |Common_Library| |clickOnWebElement| |399| WebElement is clicked
+[13-11-2019 23:04:46] |Common_Library| |waitForElementToBeClickable| |248| WebElement exists and clickable
+[13-11-2019 23:04:48] |Common_Library| |clickOnWebElement| |399| WebElement is clicked
+[13-11-2019 23:04:49] |Common_Library| |enterDataInTextBox| |226| String value entered in TextBox is: Transfer Transactions from Receiving to Costing
+[13-11-2019 23:04:51] |Common_Library| |waitForElementToBeClickable| |248| WebElement exists and clickable
+[13-11-2019 23:04:52] |Common_Library| |clickOnWebElement| |399| WebElement is clicked
+[13-11-2019 23:04:56] |Common_Library| |waitForElementToBeClickable| |248| WebElement exists and clickable
+[13-11-2019 23:04:58] |Common_Library| |clickOnWebElement| |399| WebElement is clicked
+[13-11-2019 23:04:58] |ScheduledProcesses| |selectReportName_SearchAndSelectName| |381| Selected Transfer Transactions from Receiving to Costing
+[13-11-2019 23:04:59] |Common_Library| |waitForElementToBeClickable| |248| WebElement exists and clickable
+[13-11-2019 23:05:00] |Common_Library| |clickOnWebElement| |399| WebElement is clicked
+[13-11-2019 23:05:01] |Common_Library| |waitForElementToBeClickable| |248| WebElement exists and clickable
+[13-11-2019 23:05:02] |Common_Library| |clickOnWebElement| |399| WebElement is clicked
+[13-11-2019 23:05:02] |ScheduledProcesses| |submitNewRequest| |486| Selected the request successfully
+[13-11-2019 23:05:03] |Common_Library| |waitForElementToBeVisible| |274| WebElement exists
+[13-11-2019 23:05:04] |Common_Library| |waitForElementToBeClickable| |248| WebElement exists and clickable
+[13-11-2019 23:05:05] |Common_Library| |clickOnWebElement| |399| WebElement is clicked
+[13-11-2019 23:05:06] |Common_Library| |waitForElementToBeVisible| |274| WebElement exists
+[13-11-2019 23:05:07] |Common_Library| |waitForElementToBeClickable| |248| WebElement exists and clickable
+[13-11-2019 23:05:08] |Common_Library| |clickOnWebElement| |399| WebElement is clicked
+[13-11-2019 23:05:08] |Common_Library| |waitForElementToBeVisible| |274| WebElement exists
+[13-11-2019 23:05:09] |Common_Library| |enterDataInTextBox| |226| String value entered in TextBox is: 4416313
+[13-11-2019 23:05:11] |Common_Library| |waitForElementToBeClickable| |248| WebElement exists and clickable
+[13-11-2019 23:05:12] |Common_Library| |clickOnWebElement| |399| WebElement is clicked
+[13-11-2019 23:05:16] |Common_Library| |waitForElementToBeVisible| |274| WebElement exists
+[13-11-2019 23:05:19] |ScheduledProcesses| |verifyReportStatus| |209| Wait complete before refresh
+[13-11-2019 23:05:20] |Common_Library| |waitForElementToBeClickable| |248| WebElement exists and clickable
+[13-11-2019 23:05:21] |Common_Library| |clickOnWebElement| |399| WebElement is clicked
+[13-11-2019 23:05:24] |Common_Library| |waitForElementToBeVisible| |274| WebElement exists
+[13-11-2019 23:05:24] |ScheduledProcesses| |verifyReportStatus| |206| Status changed to Succeeded/Error
+[13-11-2019 23:05:26] |Common_Library| |waitForElementToBeClickable| |248| WebElement exists and clickable
+[13-11-2019 23:05:27] |Common_Library| |clickOnWebElement| |399| WebElement is clicked
+[13-11-2019 23:05:27] |Common_Library| |waitForElementToBeVisible| |274| WebElement exists
+[13-11-2019 23:05:28] |Common_Library| |waitForElementToBeClickable| |248| WebElement exists and clickable
+[13-11-2019 23:05:29] |Common_Library| |clickOnWebElement| |399| WebElement is clicked
+[13-11-2019 23:05:30] |Common_Library| |waitForElementToBeClickable| |248| WebElement exists and clickable
+[13-11-2019 23:05:31] |Common_Library| |clickOnWebElement| |399| WebElement is clicked
+[13-11-2019 23:05:33] |Common_Library| |enterDataInTextBox| |226| String value entered in TextBox is: Transfer Costs to Cost Management
+[13-11-2019 23:05:35] |Common_Library| |waitForElementToBeClickable| |248| WebElement exists and clickable
+[13-11-2019 23:05:36] |Common_Library| |clickOnWebElement| |399| WebElement is clicked
+[13-11-2019 23:05:40] |Common_Library| |waitForElementToBeClickable| |248| WebElement exists and clickable
+[13-11-2019 23:05:41] |Common_Library| |clickOnWebElement| |399| WebElement is clicked
+[13-11-2019 23:05:41] |ScheduledProcesses| |selectReportName_SearchAndSelectName| |381| Selected Transfer Costs to Cost Management
+[13-11-2019 23:05:42] |Common_Library| |waitForElementToBeClickable| |248| WebElement exists and clickable
+[13-11-2019 23:05:43] |Common_Library| |clickOnWebElement| |399| WebElement is clicked
+[13-11-2019 23:05:44] |Common_Library| |waitForElementToBeClickable| |248| WebElement exists and clickable
+[13-11-2019 23:05:46] |Common_Library| |clickOnWebElement| |399| WebElement is clicked
+[13-11-2019 23:05:46] |ScheduledProcesses| |submitNewRequest| |486| Selected the request successfully
+[13-11-2019 23:05:47] |Common_Library| |waitForElementToBeVisible| |274| WebElement exists
+[13-11-2019 23:05:48] |Common_Library| |enterDataInTextBox| |226| String value entered in TextBox is: CLID
+[13-11-2019 23:05:50] |Common_Library| |enterDataInTextBox| |226| String value entered in TextBox is: 13/Nov/2019
+[13-11-2019 23:05:53] |Common_Library| |waitForElementToBeClickable| |248| WebElement exists and clickable
+[13-11-2019 23:05:54] |Common_Library| |clickOnWebElement| |399| WebElement is clicked
+[13-11-2019 23:05:54] |Common_Library| |waitForElementToBeVisible| |274| WebElement exists
+[13-11-2019 23:05:55] |Common_Library| |waitForElementToBeClickable| |248| WebElement exists and clickable
+[13-11-2019 23:05:56] |Common_Library| |clickOnWebElement| |399| WebElement is clicked
+[13-11-2019 23:05:56] |Common_Library| |waitForElementToBeVisible| |274| WebElement exists
+[13-11-2019 23:05:58] |Common_Library| |enterDataInTextBox| |226| String value entered in TextBox is: 4416314
+[13-11-2019 23:06:00] |Common_Library| |waitForElementToBeClickable| |248| WebElement exists and clickable
+[13-11-2019 23:06:01] |Common_Library| |clickOnWebElement| |399| WebElement is clicked
+[13-11-2019 23:06:04] |Common_Library| |waitForElementToBeVisible| |274| WebElement exists
+[13-11-2019 23:06:07] |ScheduledProcesses| |verifyReportStatus| |209| Wait complete before refresh
+[13-11-2019 23:06:08] |Common_Library| |waitForElementToBeClickable| |248| WebElement exists and clickable
+[13-11-2019 23:06:09] |Common_Library| |clickOnWebElement| |399| WebElement is clicked
+[13-11-2019 23:06:12] |Common_Library| |waitForElementToBeVisible| |274| WebElement exists
+[13-11-2019 23:06:16] |ScheduledProcesses| |verifyReportStatus| |209| Wait complete before refresh
+[13-11-2019 23:06:17] |Common_Library| |waitForElementToBeClickable| |248| WebElement exists and clickable
+[13-11-2019 23:06:18] |Common_Library| |clickOnWebElement| |399| WebElement is clicked
+[13-11-2019 23:06:21] |Common_Library| |waitForElementToBeVisible| |274| WebElement exists
+[13-11-2019 23:06:24] |ScheduledProcesses| |verifyReportStatus| |209| Wait complete before refresh
+[13-11-2019 23:06:25] |Common_Library| |waitForElementToBeClickable| |248| WebElement exists and clickable
+[13-11-2019 23:06:26] |Common_Library| |clickOnWebElement| |399| WebElement is clicked
+[13-11-2019 23:06:29] |Common_Library| |waitForElementToBeVisible| |274| WebElement exists
+[13-11-2019 23:06:32] |ScheduledProcesses| |verifyReportStatus| |209| Wait complete before refresh
+[13-11-2019 23:06:34] |Common_Library| |waitForElementToBeClickable| |248| WebElement exists and clickable
+[13-11-2019 23:06:35] |Common_Library| |clickOnWebElement| |399| WebElement is clicked
+[13-11-2019 23:06:38] |Common_Library| |waitForElementToBeVisible| |274| WebElement exists
+[13-11-2019 23:06:41] |ScheduledProcesses| |verifyReportStatus| |209| Wait complete before refresh
+[13-11-2019 23:06:42] |Common_Library| |waitForElementToBeClickable| |248| WebElement exists and clickable
+[13-11-2019 23:06:43] |Common_Library| |clickOnWebElement| |399| WebElement is clicked
+[13-11-2019 23:06:46] |Common_Library| |waitForElementToBeVisible| |274| WebElement exists
+[13-11-2019 23:06:46] |ScheduledProcesses| |verifyReportStatus| |206| Status changed to Succeeded/Error
+[13-11-2019 23:06:48] |Common_Library| |waitForElementToBeClickable| |248| WebElement exists and clickable
+[13-11-2019 23:06:51] |Common_Library| |clickOnWebElement| |399| WebElement is clicked
+[13-11-2019 23:06:54] |HomePage_SCM| |clickOnNavigationIcon| |96| Navigation Icon is clicked
+[13-11-2019 23:08:04] |Common_Library| |waitForElementToBeClickable| |254| TimeoutException Exception
+[13-11-2019 23:08:04] |HomePage_SCM| |clickOnReceiptAccounting| |237| Receipt Accounting Link is Clicked
+[13-11-2019 23:08:04] |CostAccountingPage| |<init>| |41| Cost Accounting page is initialised
+[13-11-2019 23:08:04] |CreateCostAccountingDistributions| |<init>| |53| Create CostAccounting Distributions page is initialised
+[13-11-2019 23:08:09] |ReceiptAccounting| |<init>| |24| ReceiptAccounting is initialized
+[13-11-2019 23:08:41] |Common_Library| |waitForElementToBeClickable| |248| WebElement exists and clickable
+[13-11-2019 23:08:42] |Common_Library| |clickOnWebElement| |399| WebElement is clicked
+[13-11-2019 23:08:46] |Common_Library| |waitForElementToBeClickable| |248| WebElement exists and clickable
+[13-11-2019 23:08:47] |Common_Library| |clickOnWebElement| |399| WebElement is clicked
+[13-11-2019 23:08:53] |Common_Library| |waitForElementToBeVisible| |274| WebElement exists
+[13-11-2019 23:08:54] |Common_Library| |enterDataInTextBox| |226| String value entered in TextBox is: CLID
